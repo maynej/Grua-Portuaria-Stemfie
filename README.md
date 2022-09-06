@@ -26,7 +26,7 @@ STL per imprimir la Plataforma Giratòria [aquí](https://github.com/maynej/Grua
 
 # Ploma
 
-<img src="Imatges/Ploma.jpg" width="200" />
+<img src="Imatges/Ploma.jpg" width="400" />
 
 STL per imprimir la Ploma articulada [aquí](https://github.com/maynej/Grua-Portuaria-Stemfie/tree/main/STL/Pluma)
 
