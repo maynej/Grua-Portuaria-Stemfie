@@ -14,19 +14,19 @@ La documentació està disponible també en castellà i anglés [en PDF](https:/
 
 # Torre base
 
-<img src="Imatges/MesuradorStemfie.jpg" width="100" />
+<img src="Imatges/Torre.jpg" width="100" />
 
 STL per imprimir la Torre Base [aquí](https://github.com/maynej/Grua-Portuaria-Stemfie/tree/main/STL/Base)
 
 # Plataforma giratòria
 
-<img src="Imatges/MesuradorStemfie.jpg" width="100" />
+<img src="Imatges/Plataformagiratoria.jpg" width="100" />
 
 STL per imprimir la Plataforma Giratòria [aquí](https://github.com/maynej/Grua-Portuaria-Stemfie/tree/main/STL/PlataformaGiratoria)
 
 # Ploma
 
-<img src="Imatges/MesuradorStemfie.jpg" width="100" />
+<img src="Imatges/Ploma.jpg" width="100" />
 
 STL per imprimir la Ploma articulada [aquí](https://github.com/maynej/Grua-Portuaria-Stemfie/tree/main/STL/Pluma)
 
