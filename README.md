@@ -21,7 +21,7 @@ STL per imprimir la Ploma articulada [aquí](https://github.com/maynej/Grua-Port
 
 ## Mesurador Stemfie 
 
-<img src="Imatges/MesuradorStemfie2.jpg" width="100" />
+<img src="Imatges/MesuradorStemfie.jpg" width="100" />
 
 Descripció    | Opcional     | Arxiu         
 ------------- | ------------ | ----- 
