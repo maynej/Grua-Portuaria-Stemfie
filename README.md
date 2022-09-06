@@ -14,7 +14,7 @@ La documentació està disponible també en castellà i anglés [en PDF](https:/
 
 # Torre base
 
-<img src="Imatges/Torre.jpg" width="400" />
+<img src="Imatges/Torre.jpg" width="300" />
 
 STL per imprimir la Torre Base [aquí](https://github.com/maynej/Grua-Portuaria-Stemfie/tree/main/STL/Base)
 
@@ -26,7 +26,7 @@ STL per imprimir la Plataforma Giratòria [aquí](https://github.com/maynej/Grua
 
 # Ploma
 
-<img src="Imatges/Ploma.jpg" width="600" />
+<img src="Imatges/Ploma.jpg" width="700" />
 
 STL per imprimir la Ploma articulada [aquí](https://github.com/maynej/Grua-Portuaria-Stemfie/tree/main/STL/Pluma)
 
