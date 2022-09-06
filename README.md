@@ -12,12 +12,23 @@ Electronics Stemfie es una llibreria STL de suports per tarjes de control, senso
 
 La documentació està disponible també en castellà i anglés [en PDF](https://github.com/maynej/Grua-Portuaria-Stemfie/tree/main/DOC)
 
+# Torre base
+
+<img src="Imatges/MesuradorStemfie.jpg" width="100" />
+
 STL per imprimir la Torre Base [aquí](https://github.com/maynej/Grua-Portuaria-Stemfie/tree/main/STL/Base)
+
+# Plataforma giratòria
+
+<img src="Imatges/MesuradorStemfie.jpg" width="100" />
 
 STL per imprimir la Plataforma Giratòria [aquí](https://github.com/maynej/Grua-Portuaria-Stemfie/tree/main/STL/PlataformaGiratoria)
 
-STL per imprimir la Ploma articulada [aquí](https://github.com/maynej/Grua-Portuaria-Stemfie/tree/main/STL/Pluma)
+# Ploma
 
+<img src="Imatges/MesuradorStemfie.jpg" width="100" />
+
+STL per imprimir la Ploma articulada [aquí](https://github.com/maynej/Grua-Portuaria-Stemfie/tree/main/STL/Pluma)
 
 ## Mesurador Stemfie 
 
