@@ -14,7 +14,7 @@ La documentació està disponible també en castellà i anglés [en PDF](https:/
 
 # Torre base
 
-<img src="Imatges/Torre.jpg" width="300" />
+<img src="Imatges/Torre.png" width="300" />
 
 STL per imprimir la Torre Base [aquí](https://github.com/maynej/Grua-Portuaria-Stemfie/tree/main/STL/Base)
 
