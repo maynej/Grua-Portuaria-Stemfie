@@ -32,7 +32,7 @@ STL per imprimir la Ploma articulada [aquí](https://github.com/maynej/Grua-Port
 
 # Ganxo
 
-<img src="Imatges/PulleyHook.png" width="500" />
+<img src="Imatges/PulleyHook.png" width="100" />
 
 STL per imprimir el Ganxo [aquí](https://github.com/maynej/Grua-Portuaria-Stemfie/tree/main/STL/Ganxo)
 
