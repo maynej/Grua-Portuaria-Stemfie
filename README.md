@@ -28,7 +28,13 @@ STL per imprimir la Plataforma Giratòria [aquí](https://github.com/maynej/Grua
 
 <img src="Imatges/Ploma.jpg" width="700" />
 
-STL per imprimir la Ploma articulada [aquí](https://github.com/maynej/Grua-Portuaria-Stemfie/tree/main/STL/Pluma)
+STL per imprimir la Ploma articulada [aquí](https://github.com/maynej/Grua-Portuaria-Stemfie/tree/main/STL/Ploma)
+
+# Ganxo
+
+<img src="Imatges/PulleyHook.png" width="100" />
+
+STL per imprimir el Ganxo [aquí](https://github.com/maynej/Grua-Portuaria-Stemfie/tree/main/STL/Ganxo)
 
 ## Mesurador Stemfie 
 
