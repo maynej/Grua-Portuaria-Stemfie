@@ -1,6 +1,6 @@
 # Grua-Portuaria-Stemfie
 
-<img src="Imatges/photo_2022-09-04_21-15-53.jpg" width="500" />
+<img src="Imatges/Grua.jpg" width="500" />
 
 Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Imatges/Logo3senseFons.png" width="50" />
 
